@@ -1,2 +1,2 @@
 # Site-Lojinha-
-Site criado com base nas aula do Dev Clube, utilizando interações com JS
+Site básico com interações em JS, onde temos 3 produtos definidos e descrição sobre ele, e users podem clicar nosso 'Button' e verificar os outros produtos.
